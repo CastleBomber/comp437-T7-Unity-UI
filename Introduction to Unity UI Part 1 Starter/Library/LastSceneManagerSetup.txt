@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RW/Scenes/RocketMouse.unity
+- path: Assets/RW/Scenes/MenuScene.unity
   isLoaded: 1
   isActive: 1
